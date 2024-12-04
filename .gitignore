@@ -1,3 +1,9 @@
 .bash_history
 .bash_logout
 file.txt
+.bash_profile
+.bashrc
+.ssh/
+.lesshst
+hw1/
+.viminfo
